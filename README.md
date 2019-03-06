@@ -6,16 +6,18 @@ To use, run poemCreator.py with Python 2.7, with either syntax:
 ```bash
 python poemCreator.py true 
 ```
-to re-tokenize poems and recreate word map
+To re-tokenize poems and recreate word map__
+
+or
 
 ```bash
 python poemCreator.py [lines] [min] [max]
 ```
-to create a poem.
+To create a poem.
 
-lines: number of lines in output poem.
-min: minimum individual line length in poem
-max: maximum individual line length in poem
+lines: number of lines in output poem. __
+min: minimum individual line length in poem. __
+max: maximum individual line length in poem. __
 
 Poem lines can span anywhere from min to max number of words, inclusively.
 
@@ -25,7 +27,7 @@ Example call:
 python poemCreator.py 5 3 6
 ```
 
-output:
+Output:
 
 ```bash
 cromwell  hyes  and 
