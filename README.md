@@ -1,7 +1,7 @@
 # PoemGenerator
 Marcov Text Generator Based Poem Generator
 
-To use, run poemCreator.py with Python 2.7, with either syntax:
+To use, run poemCreator.py with Python 2.7 using either syntax:
 
 ```
 python poemCreator.py true 
